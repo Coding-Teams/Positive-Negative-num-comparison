@@ -55,12 +55,12 @@ void compare() {
 
    if (a != pare) {
 
-        printf("The number %d it's pare\n", a);
+        printf("The number %d it's spare\n", a);
 
 
     } else {
 
-       printf("The number %d is spare\n", a);
+       printf("The number %d is pare\n", a);
 
     }
 }
