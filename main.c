@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#inclue "calcs.h"
+#include "calcs.h"
 
 /* Comparison of negative/positive numbers
 
